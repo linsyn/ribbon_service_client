@@ -11,8 +11,8 @@
     <modules>
         <module>microdemoservcies</module>
         <module>micro_api_gw</module>
-        <module>mobilemicrowebapp</module>
         <module>shiroDemoTest</module>
+        <module>microWebappDemo</module>
     </modules>·
     <parent>
         <groupId>org.springframework.boot</groupId>
