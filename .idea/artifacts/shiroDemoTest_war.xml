@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="shiroDemoTest:war">
+    <output-path>$PROJECT_DIR$/shiroDemoTest/target</output-path>
+    <root id="archive" name="shiroDemoTest.war">
+      <element id="artifact" artifact-name="shiroDemoTest:war exploded" />
+    </root>
+  </artifact>
+</component>

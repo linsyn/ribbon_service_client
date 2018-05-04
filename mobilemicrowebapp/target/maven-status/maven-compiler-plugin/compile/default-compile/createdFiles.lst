@@ -1,0 +1,4 @@
+com/tm/pms/test/controller/BookController.class
+com/tm/pms/test/EurekaClient/MyInstanceConfig.class
+com/tm/pms/test/EurekaClient/TMDiscoveryClient.class
+com/tm/pms/test/EurekaClient/PMSEurekaClientConfig.class

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="microdemowebapp:war">
+    <output-path>$PROJECT_DIR$/microdemowebapp/target</output-path>
+    <root id="archive" name="micro.demo.webapp-1.1.0.war">
+      <element id="artifact" artifact-name="microdemowebapp:war exploded" />
+    </root>
+  </artifact>
+</component>
