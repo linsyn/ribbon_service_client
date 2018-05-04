@@ -2,6 +2,7 @@
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/microdemowebapp" />
+    <file type="web" url="file://$PROJECT_DIR$/microWebappDemo" />
     <file type="web" url="file://$PROJECT_DIR$/mobilemicrowebapp" />
     <file type="web" url="file://$PROJECT_DIR$/shiroDemoTest" />
   </component>
@@ -20,6 +21,7 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/microdemowebapp/pom.xml" />
+        <option value="$PROJECT_DIR$/mobilemicrowebapp/pom.xml" />
       </set>
     </option>
   </component>
