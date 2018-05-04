@@ -1,4 +1,0 @@
-0:0:0:0:0:0:0:1 - - [25/Apr/2018:10:13:20 +0800] "GET /mobileMicroWebapp HTTP/1.1" 302 - http-bio-8080-exec-1 0
-0:0:0:0:0:0:0:1 - - [25/Apr/2018:10:13:20 +0800] "GET /mobileMicroWebapp/ HTTP/1.1" 200 52 http-bio-8080-exec-2 100
-0:0:0:0:0:0:0:1 - - [25/Apr/2018:10:22:15 +0800] "GET /mobileMicroWebapp HTTP/1.1" 302 - http-bio-8080-exec-1 0
-0:0:0:0:0:0:0:1 - - [25/Apr/2018:10:22:15 +0800] "GET /mobileMicroWebapp/ HTTP/1.1" 200 52 http-bio-8080-exec-2 73
