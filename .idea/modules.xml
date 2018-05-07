@@ -3,10 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/demoAngular/demoAngular.iml" filepath="$PROJECT_DIR$/demoAngular/demoAngular.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microServicelatedDemo.iml" filepath="$PROJECT_DIR$/microServicelatedDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/microWebappDemo/microWebappDemo.iml" filepath="$PROJECT_DIR$/microWebappDemo/microWebappDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/micro_api_gw/micro_api_gw.iml" filepath="$PROJECT_DIR$/micro_api_gw/micro_api_gw.iml" />
       <module fileurl="file://$PROJECT_DIR$/microdemoservcies/microdemoservcies.iml" filepath="$PROJECT_DIR$/microdemoservcies/microdemoservcies.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ribbon_service_client.iml" filepath="$PROJECT_DIR$/ribbon_service_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbonServiceClient/ribbonServiceClient.iml" filepath="$PROJECT_DIR$/ribbonServiceClient/ribbonServiceClient.iml" />
       <module fileurl="file://$PROJECT_DIR$/shiroDemoTest/shiroDemoTest.iml" filepath="$PROJECT_DIR$/shiroDemoTest/shiroDemoTest.iml" />
     </modules>
   </component>
